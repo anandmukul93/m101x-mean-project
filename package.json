@@ -1,0 +1,30 @@
+{
+  "name": "mean-project",
+  "version": "1.0.0",
+  "description": "sample mean stack course project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anandmukul93/m101x-mean-project.git"
+  },
+  "keywords": [
+    "mean",
+    "mongodb",
+    "angular-js",
+    "ionic",
+    "express",
+    "node"
+  ],
+  "author": "mukul anand",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anandmukul93/m101x-mean-project/issues"
+  },
+  "homepage": "https://github.com/anandmukul93/m101x-mean-project#readme",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
+}
